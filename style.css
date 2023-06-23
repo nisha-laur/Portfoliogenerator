@@ -1,0 +1,17 @@
+/* #cv-form{
+    display: none;
+} */
+.myimg{
+    border: 50%;
+    width: 200px;
+}
+.background{
+    background-color: #7d7df3;
+}
+.myicons{
+    border: 50%;
+    width: 50px; 
+}
+.mypara{
+    display: contents;
+}

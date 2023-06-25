@@ -1,6 +1,13 @@
 /* #cv-form{
     display: none;
 } */
+body{
+    font-family: 'Bacasime Antique', serif;
+    color: black;
+    font-weight: 600;
+    font-size: larger;
+    background-color: aliceblue;
+}
 #cv-template{
     display: none;
 }

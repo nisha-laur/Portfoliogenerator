@@ -2,9 +2,9 @@
     display: none;
 } */
 body{
-    font-family: 'Bacasime Antique', serif;
+    font-family: poppins;
     color: black;
-    font-weight: 600;
+/*     font-weight: 600; */
     font-size: larger;
     background-color: aliceblue;
 }
